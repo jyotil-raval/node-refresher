@@ -17,10 +17,10 @@
 🧠 Clarity: [write your insight]
 ⚡ Confusion: [write what felt unclear]
 
-## Score
+### Score
 
-| Metric           | Score (1–10) | Notes |
-| :--------------- | :----------: | :---- |
-| Concept Clarity  |      6       |       |
-| Code Fluency     |      5       |       |
-| Reflection Depth |      4       |       |
+| Metric           | Score (1–10) | Notes                                                                                                                                                                |
+| :--------------- | :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Concept Clarity  |      7       | Understood how Node runs single-threaded with an event loop; the microtask vs macrotask order finally clicked. Need to visualize how libuv threads offload file I/O. |
+| Code Fluency     |      6       | Wrote loop-demo.js without reference; used REPL comfortably. needed.                                                                                                 |
+| Reflection Depth |      5       | Realized I was focusing more on commands than mental models. Tomorrow I’ll summarize each concept as if teaching it — forces clarity.                                |
