@@ -1,0 +1,13 @@
+{
+  "name": "day-01-node-runtime-tooling-mastery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "loop": "node loop-demo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
