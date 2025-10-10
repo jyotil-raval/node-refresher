@@ -1,0 +1,1 @@
+Streams are like data arteries — carrying flow, not blobs.
